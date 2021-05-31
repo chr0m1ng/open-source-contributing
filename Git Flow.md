@@ -68,8 +68,8 @@ If you want to dig deeper in this subject, we've this article [here](/Code%20Rev
 
 ## References
 
-[The Anatomy of a Perfect Pull Request](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
-[The (written) unwritten guide to pull requests](https://www.atlassian.com/blog/git/written-unwritten-guide-pull-requests)
-[Best practices for good PR's](https://www.kenneth-truyers.net/2018/11/01/best-practices-good-pr/)
-[Effective Pull Requests: A Guide](https://www.braintreepayments.com/blog/effective-pull-requests-a-guide/)
-[Git Commit Best Practices](https://github.com/trein/dev-best-practices/wiki/Git-Commit-Best-Practices)
+- [The Anatomy of a Perfect Pull Request](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
+- [The (written) unwritten guide to pull requests](https://www.atlassian.com/blog/git/written-unwritten-guide-pull-requests)
+- [Best practices for good PR's](https://www.kenneth-truyers.net/2018/11/01/best-practices-good-pr/)
+- [Effective Pull Requests: A Guide](https://www.braintreepayments.com/blog/effective-pull-requests-a-guide/)
+- [Git Commit Best Practices](https://github.com/trein/dev-best-practices/wiki/Git-Commit-Best-Practices)
