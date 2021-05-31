@@ -13,7 +13,7 @@
   - [Names matter](#names-matter)
 - [Comments](#comments)
 - [Formatting](#formatting)
-- [Useful references](#useful-references)
+- [References](#References)
 
 ## Motivations
 
@@ -573,7 +573,7 @@ public class SuperDashboard
 
 ---
 
-## Useful references
+## References
 
 - "Clean Code", a book by Robert C. Martin (aka Uncle Bob)
   - For those who want a _pocket_ version, check this [summarized article](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
